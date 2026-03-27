@@ -1,8 +1,5 @@
 First version
 second version
-<<<<<<< HEAD
 Change from feature branch
-=======
 Change from main branch
->>>>>>> main
 Final version after resolving conflict
